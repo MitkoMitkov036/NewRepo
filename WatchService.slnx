@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="WatchService.BL/WatchService.BL.csproj" />
+  <Project Path="WatchService.DL/WatchService.DL.csproj" />
+  <Project Path="WatchService.Host/WatchService.Host.csproj" />
+  <Project Path="WatchService.Models/WatchService.Models.csproj" />
+  <Project Path="WatchService.Tests/WatchService.Tests.csproj" />
+</Solution>
